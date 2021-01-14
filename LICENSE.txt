@@ -1,0 +1,2 @@
+- Caldera License;
+- Common Development and Distribution License (CDDL).
